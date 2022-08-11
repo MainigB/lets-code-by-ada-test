@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240754159590",
+    "project_id": "lets-code-by-ada",
+    "storage_bucket": "lets-code-by-ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240754159590:android:ebc845a84ae042cc93b027",
+        "android_client_info": {
+          "package_name": "com.example.letscodebyada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240754159590-jvbc602o4bfpsqa5sq5etn2p63so2pi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjDJG7GkA2vziEXBcU7B97-uzktc9VVic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240754159590-jvbc602o4bfpsqa5sq5etn2p63so2pi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
